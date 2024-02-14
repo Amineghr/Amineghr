@@ -23,10 +23,10 @@
 - 🎓 &nbsp;I am currently studying Business Intelligence [@ISAAS ](https://isaas.rnu.tn//).
 - 👯 &nbsp; I’m looking to collaborate with on performance-related projects.
 <!-- - 🤔 &nbsp; I’m looking for help with ... -->
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/amine-ghrab).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Amineghr).
 - 🤝 &nbsp; Welcom for everyone who need help or collaborator.
 - 🥅 &nbsp; 2024 Goals: graduating from university.
-- 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/amine-ghrab/ama)! I will be happy to help.
+- 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/Amineghr/ama)! I will be happy to help.
 - 📫 &nbsp; How to reach me: &nbsp;
 - 😄 &nbsp; Pronouns: ... He/Him/His
 - 👾 &nbsp; Fun fact: ... “A quitter never wins and a winner never quits.”
