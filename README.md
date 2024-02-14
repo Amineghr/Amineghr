@@ -20,7 +20,7 @@
 - 🔭 &nbsp; I’m currently working on understanding myself...
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
 - 🌱 &nbsp; I’m currently learning everything ...
-- 🎓 &nbsp;I am currently studying Business Intelligence [@ISAAS ](//https://isaas.rnu.tn//).
+- 🎓 &nbsp;I am currently studying Business Intelligence [@ISAAS ](https://isaas.rnu.tn//).
 - 👯 &nbsp; I’m looking to collaborate with on performance-related projects.
 <!-- - 🤔 &nbsp; I’m looking for help with ... -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/amine-ghrab).
