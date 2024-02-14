@@ -10,13 +10,9 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&pause=1000&color=F762DBFF&random=false&width=435&lines=programmer+from+Tunisia;Business+Intelligence+student;always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=amine-ghrab">
-  
-</a>
-<!--[![wakatime](https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg)](https://wakatime.com/@018ba1c5-fe7e-4872-88e0-291c793a183a)-->
-[![wakatime](https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg)](https://wakatime.com/@018ba1c9-f57d-4157-9183-043412b73def)
+<!--[![wakatime](https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg)](https://wakatime.com/@018d5f7a-a635-4c36-9dde-308b742d3c33)-->
+[![wakatime](https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg)](https://wakatime.com/@018d5f7a-a635-4c36-9dde-308b742d3c33)
 </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 
