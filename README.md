@@ -16,7 +16,7 @@
 
 </p>
 
-<br><br>
+<br>https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg<br>
 - 🔭 &nbsp; I’m currently working on understanding myself...
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
 - 🌱 &nbsp; I’m currently learning everything ...
