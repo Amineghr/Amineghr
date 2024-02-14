@@ -13,10 +13,12 @@
 <a href="https://komarev.com/ghpvc/?username=amine-ghrab">
   
 </a>
+<!--[![wakatime](https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg)](https://wakatime.com/@018d5f7a-a635-4c36-9dde-308b742d3c33)-->
+[![wakatime](https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg)](https://wakatime.com/@018d5f7a-a635-4c36-9dde-308b742d3c33)
 
 </p>
 
-<br>https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg<br>
+<br><br>
 - 🔭 &nbsp; I’m currently working on understanding myself...
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
 - 🌱 &nbsp; I’m currently learning everything ...
