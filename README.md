@@ -9,10 +9,10 @@
 <p align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&pause=1000&color=F762DBFF&random=false&width=435&lines=programmer+from+Tunisia;Business+Intelligence+student;always+learning+new+things" alt="Typing SVG" /></a>
 </p>
-
-
-
-
+<p align="center">
+<!--[![wakatime](https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg)](https://wakatime.com/@018d5f7a-a635-4c36-9dde-308b742d3c33)-->
+[![wakatime](https://wakatime.com/badge/user/018d5f7a-a635-4c36-9dde-308b742d3c33.svg)](https://wakatime.com/@018d5f7a-a635-4c36-9dde-308b742d3c33)
+</p>
 <br><br>
 - 🔭 &nbsp; I’m currently working on understanding myself...
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
